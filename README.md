@@ -1,6 +1,7 @@
 # slot-machine
 
-## Developer: Milad Kamali
+### Developer
+Milad Kamali
 
 ## Used Techonlogies
   * Vuejs

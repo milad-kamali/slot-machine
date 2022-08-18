@@ -1,6 +1,11 @@
 # slot-machine
 
-## Build Setup
+## Developer: Milad Kamali
+
+## Used Techonlogies
+  * Vuejs
+  * Nuxtjs
+  * Tailwind Css
 
 ```bash
 # install dependencies
